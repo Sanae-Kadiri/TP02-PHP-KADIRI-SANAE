@@ -27,6 +27,6 @@
     }
     ?>
     <p><a href="ex10_get.html">Retour au formulaire</a></p>
-    <p><a href="indix.php">Accueil</a>
+    <p><a href="index.php">Accueil</a>
 </body>
 </html>
